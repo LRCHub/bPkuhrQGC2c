@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "拝啓、ひまわり",
+  "base_artist": "Takaya Kawasaki",
+  "createdAt": "2026-03-11T05:57:04.104099Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拝啓、ひまわり",
+      "artist": "Takaya Kawasaki",
+      "has_synced": false,
+      "path": "select/pl_01_拝啓、ひまわり_Takaya_Kawasaki.txt"
+    }
+  ]
+}
